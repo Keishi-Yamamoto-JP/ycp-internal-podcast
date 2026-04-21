@@ -4,7 +4,7 @@
     <title>Carbon Credit</title>
     <description>VCS/Gold Standard/JCM/T-VER/CORSIA等のカーボンクレジット市場動向のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:00:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,5 +14,13 @@
       <title>Carbon Credit</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/carbon-credit</link>
     </image>
+    <item>
+      <title>(2026.4.21) Microsoft Pauses All Carbon Removal Purchases</title>
+      <description>(2026.4.21) Microsoft Pauses All Carbon Removal Purchases&lt;br/&gt;&lt;br/&gt;NLM: AIが阻むマイクロソフトの炭素除去&lt;br/&gt;出典: &lt;a href="https://carbonherald.com/microsoft-pauses-all-carbon-removal-purchases/"&gt;Microsoft Pauses All Carbon Removal Purchases&lt;/a&gt;</description>
+      <itunes:summary>(2026.4.21) Microsoft Pauses All Carbon Removal Purchases&lt;br/&gt;&lt;br/&gt;NLM: AIが阻むマイクロソフトの炭素除去&lt;br/&gt;出典: &lt;a href="https://carbonherald.com/microsoft-pauses-all-carbon-removal-purchases/"&gt;Microsoft Pauses All Carbon Removal Purchases&lt;/a&gt;</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/carbon-credit/%282026.4.21%29%20Microsoft%20Pauses%20All%20Carbon%20Removal%20Purchases-2026-04-21.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/carbon-credit/%282026.4.21%29%20Microsoft%20Pauses%20All%20Carbon%20Removal%20Purchases-2026-04-21.mp3" length="15259060" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>

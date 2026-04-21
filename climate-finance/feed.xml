@@ -4,7 +4,7 @@
     <title>Climate Finance</title>
     <description>カーボン価格・EU ETS・CBAM・グリーンボンド・TCFD・気候基金動向のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:00:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,5 +14,13 @@
       <title>Climate Finance</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-finance</link>
     </image>
+    <item>
+      <title>(2026.4.21) 炭素枠の永久削除を止めたEUの方針転換</title>
+      <description>(2026.4.21) 炭素枠の永久削除を止めたEUの方針転換&lt;br/&gt;&lt;br/&gt;NLM: 炭素枠の永久削除を止めたEUの方針転換</description>
+      <itunes:summary>(2026.4.21) 炭素枠の永久削除を止めたEUの方針転換&lt;br/&gt;&lt;br/&gt;NLM: 炭素枠の永久削除を止めたEUの方針転換</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-finance/%282026.4.21%29%20%E7%82%AD%E7%B4%A0%E6%9E%A0%E3%81%AE%E6%B0%B8%E4%B9%85%E5%89%8A%E9%99%A4%E3%82%92%E6%AD%A2%E3%82%81%E3%81%9FEU%E3%81%AE%E6%96%B9%E9%87%9D%E8%BB%A2%E6%8F%9B-2026-04-21.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-finance/%282026.4.21%29%20%E7%82%AD%E7%B4%A0%E6%9E%A0%E3%81%AE%E6%B0%B8%E4%B9%85%E5%89%8A%E9%99%A4%E3%82%92%E6%AD%A2%E3%82%81%E3%81%9FEU%E3%81%AE%E6%96%B9%E9%87%9D%E8%BB%A2%E6%8F%9B-2026-04-21.mp3" length="15823527" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>

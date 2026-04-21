@@ -4,7 +4,7 @@
     <title>Climate Policy</title>
     <description>NDC・COP・パリ協定・GX国内政策・タイ気候政策のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:00:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,5 +14,13 @@
       <title>Climate Policy</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-policy</link>
     </image>
+    <item>
+      <title>(2026.4.21) Key aspects of the Paris Agreement - UNFCCC</title>
+      <description>(2026.4.21) Key aspects of the Paris Agreement - UNFCCC</description>
+      <itunes:summary>(2026.4.21) Key aspects of the Paris Agreement - UNFCCC</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-policy/%282026.4.21%29%20Key%20aspects%20of%20the%20Paris%20Agreement%20-%20UNFCCC-2026-04-21.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/climate-policy/%282026.4.21%29%20Key%20aspects%20of%20the%20Paris%20Agreement%20-%20UNFCCC-2026-04-21.mp3" length="14707531" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>

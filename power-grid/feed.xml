@@ -4,7 +4,7 @@
     <title>Power Grid</title>
     <description>系統用蓄電池・LTDA・容量市場・JEPX・VPP・送配電の最新動向のAudio Overview</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:00:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,5 +14,13 @@
       <title>Power Grid</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid</link>
     </image>
+    <item>
+      <title>(2026.4.21) 電力広域的運営推進機関</title>
+      <description>(2026.4.21) 電力広域的運営推進機関&lt;br/&gt;&lt;br/&gt;NLM: 日本の電気を動かす250人の正体&lt;br/&gt;出典: &lt;a href="https://www.occto.or.jp/market-board/market/oshirase/2026/261001_chouseiryokutorihiki.html"&gt;電力広域的運営推進機関&lt;/a&gt;</description>
+      <itunes:summary>(2026.4.21) 電力広域的運営推進機関&lt;br/&gt;&lt;br/&gt;NLM: 日本の電気を動かす250人の正体&lt;br/&gt;出典: &lt;a href="https://www.occto.or.jp/market-board/market/oshirase/2026/261001_chouseiryokutorihiki.html"&gt;電力広域的運営推進機関&lt;/a&gt;</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid/%282026.4.21%29%20%E9%9B%BB%E5%8A%9B%E5%BA%83%E5%9F%9F%E7%9A%84%E9%81%8B%E5%96%B6%E6%8E%A8%E9%80%B2%E6%A9%9F%E9%96%A2-2026-04-21.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/power-grid/%282026.4.21%29%20%E9%9B%BB%E5%8A%9B%E5%BA%83%E5%9F%9F%E7%9A%84%E9%81%8B%E5%96%B6%E6%8E%A8%E9%80%B2%E6%A9%9F%E9%96%A2-2026-04-21.mp3" length="14770404" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
