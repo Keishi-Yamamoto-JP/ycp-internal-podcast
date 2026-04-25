@@ -4,7 +4,7 @@
     <title>Research</title>
     <description>GILコンサルプロジェクトの研究成果をAudio Overviewで配信。BRD・検証レポート・市場分析等のプロジェクト成果物の音声版</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Apr 2026 03:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:40:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Research</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research</link>
     </image>
+    <item>
+      <title>(2026.4.26) タイの農作業に潜む脱炭素の急所</title>
+      <description>(2026.4.26) タイの農作業に潜む脱炭素の急所&lt;br/&gt;&lt;br/&gt;NLM: タイの農作業に潜む脱炭素の急所&lt;br/&gt;出典: crop_cycle_thailand_6crops.md</description>
+      <itunes:summary>(2026.4.26) タイの農作業に潜む脱炭素の急所&lt;br/&gt;&lt;br/&gt;NLM: タイの農作業に潜む脱炭素の急所&lt;br/&gt;出典: crop_cycle_thailand_6crops.md</itunes:summary>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.4.26%29%20%E3%82%BF%E3%82%A4%E3%81%AE%E8%BE%B2%E4%BD%9C%E6%A5%AD%E3%81%AB%E6%BD%9C%E3%82%80%E8%84%B1%E7%82%AD%E7%B4%A0%E3%81%AE%E6%80%A5%E6%89%80-2026-04-26.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.4.26%29%20%E3%82%BF%E3%82%A4%E3%81%AE%E8%BE%B2%E4%BD%9C%E6%A5%AD%E3%81%AB%E6%BD%9C%E3%82%80%E8%84%B1%E7%82%AD%E7%B4%A0%E3%81%AE%E6%80%A5%E6%89%80-2026-04-26.mp3" length="19170102" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.4.23) 袖ヶ浦バイオ炭事業 新規事業計画ドラフトv1と批判的レビューを公開</title>
       <description>(2026.4.23) 袖ヶ浦バイオ炭事業 新規事業計画ドラフトv1と批判的レビューを公開&lt;br/&gt;&lt;br/&gt;NLM: 雑草が19億に化ける計画の残酷な真実&lt;br/&gt;出典: 袖ヶ浦バイオ炭事業_配信用サマリー.md</description>
