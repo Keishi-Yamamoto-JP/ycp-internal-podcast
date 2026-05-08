@@ -4,10 +4,18 @@
     <title>Daily Brief</title>
     <description>Green Impact Labs デイリー・インテリジェンス・ブリーフ。daily-intelで収集したクライアント関連ニュース・政策動向・AI/Notion/Claude Code・農業サステナビリティの音声版（Azure Speech Neural TTSで合成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 May 2026 03:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 03:20:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
+    <item>
+      <title>(2026.5.9) Green Impact Labs Daily Intelligence Brief</title>
+      <description>(2026.5.9) Green Impact Labs Daily Intelligence Brief&lt;br/&gt;&lt;br/&gt;出典: Green Impact Labs Daily Intelligence Brief</description>
+      <itunes:summary>(2026.5.9) Green Impact Labs Daily Intelligence Brief&lt;br/&gt;&lt;br/&gt;出典: Green Impact Labs Daily Intelligence Brief</itunes:summary>
+      <pubDate>Sat, 09 May 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/daily/%282026.5.9%29%20Green%20Impact%20Labs%20Daily%20Intelligence%20Brief-2026-05-09.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/daily/%282026.5.9%29%20Green%20Impact%20Labs%20Daily%20Intelligence%20Brief-2026-05-09.mp3" length="10760160" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.5.8) Green Impact Labs Daily Intelligence Brief</title>
       <description>(2026.5.8) Green Impact Labs Daily Intelligence Brief&lt;br/&gt;&lt;br/&gt;出典: Green Impact Labs Daily Intelligence Brief</description>
