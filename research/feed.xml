@@ -4,7 +4,7 @@
     <title>Research</title>
     <description>GILコンサルプロジェクトの研究成果をAudio Overviewで配信。BRD・検証レポート・市場分析等のプロジェクト成果物の音声版</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 May 2026 03:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:07:00 +0900</lastBuildDate>
     <itunes:author>Green Impact Labs</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business" />
@@ -14,6 +14,14 @@
       <title>Research</title>
       <link>https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research</link>
     </image>
+    <item>
+      <title>(2026.5.15) 収穫が増えるほど鳥が消える</title>
+      <description>(2026.5.15) 収穫が増えるほど鳥が消える&lt;br/&gt;&lt;br/&gt;NLM: 収穫が増えるほど鳥が消える&lt;br/&gt;出典: 5bbd8f58-en.pdf</description>
+      <itunes:summary>(2026.5.15) 収穫が増えるほど鳥が消える&lt;br/&gt;&lt;br/&gt;NLM: 収穫が増えるほど鳥が消える&lt;br/&gt;出典: 5bbd8f58-en.pdf</itunes:summary>
+      <pubDate>Fri, 15 May 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.5.15%29%20%E5%8F%8E%E7%A9%AB%E3%81%8C%E5%A2%97%E3%81%88%E3%82%8B%E3%81%BB%E3%81%A9%E9%B3%A5%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B-2026-05-15.mp3</guid>
+      <enclosure url="https://keishi-yamamoto-jp.github.io/gil-internal-podcast/research/%282026.5.15%29%20%E5%8F%8E%E7%A9%AB%E3%81%8C%E5%A2%97%E3%81%88%E3%82%8B%E3%81%BB%E3%81%A9%E9%B3%A5%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B-2026-05-15.mp3" length="19137038" type="audio/mpeg" />
+    </item>
     <item>
       <title>(2026.4.26) 味の素 タイ主要6作物 農家作業フロー ベースライン資料v1.0を公開</title>
       <description>(2026.4.26) 味の素 タイ主要6作物 農家作業フロー ベースライン資料v1.0を公開&lt;br/&gt;&lt;br/&gt;NLM: タイの農作業に潜む脱炭素の急所&lt;br/&gt;出典: crop_cycle_thailand_6crops.md</description>
